@@ -1,4 +1,4 @@
-[Schedule Your Workday Here!] (http://127.0.0.1:5500/05-Third-Party-APIs/02-Homework/Develop/index.html)
+[Schedule Your Workday Here!](http://127.0.0.1:5500/05-Third-Party-APIs/02-Homework/Develop/index.html)
 
 # 05 Third-Party APIs: Work Day Scheduler
 
